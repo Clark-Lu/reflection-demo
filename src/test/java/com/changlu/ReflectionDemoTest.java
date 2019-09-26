@@ -3,7 +3,6 @@ package com.changlu;
 import com.changlu.component.Car;
 import com.changlu.component.Dog;
 import com.changlu.reflection.ReflectionDemo;
-import com.oracle.javafx.jmx.json.JSONFactory;
 import org.junit.Test;
 
 import javax.xml.parsers.ParserConfigurationException;
